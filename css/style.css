@@ -950,6 +950,13 @@ footer .footer_bottom a .fa {
         background: url(../img/Vector\ Smart\ Object.png) no-repeat center 354px;
         background-size: 279px;
     }
+    section .section_02 .testimonials_text{
+        padding: 90px 0;
+    }
+    section .section_02 .testimonials_img{
+    ax-width: 312px;
+    height: 312px;
+    }
 }
 
 
